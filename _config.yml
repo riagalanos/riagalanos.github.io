@@ -26,7 +26,7 @@ github_username:  riagalanos
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote-theme: jekyller/sustain
 plugins:
   - jekyll-feed
 
