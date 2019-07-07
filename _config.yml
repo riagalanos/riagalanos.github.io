@@ -16,7 +16,7 @@ ga_analytics:
 # Author
 author: 'Ria Galanos'
 name: 'CS Cheerleader'
-image: authorimage.jpg
+image: 'assets/images/authorimage.jpg'
 greetings: 'Hello, World!.  Im Ria Galanos.'
 description: 'Engineer.  Teacher.  Lifelong Learner.'
 bio: 'Ria is a software engineer, computer science education consultant, and a lifelong learner.'
