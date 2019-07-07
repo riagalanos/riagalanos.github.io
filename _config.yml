@@ -14,12 +14,14 @@ ga_analytics:
 
 
 # Author
+
 author:
-  name: 'Daniel Bennett'
+  
+name: 'Ria Galanos'
   image: 'authorimage.jpg'
   greetings: 'Hello, World!'
   description: "My name is Ria Galanos. I'm a software developer based in Northern VA. Glad you are here."
-  bio: 'Daniel is a designer, photographer, speaker, author of a couple of books about typography and the founder of photo magazine Curious.'
+  bio: 'Ria is a software engineer, education consultant, and a lifelong learner.'
 
 # Contact form setings
 email: youremail@email.com
