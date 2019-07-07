@@ -1,76 +1,39 @@
 #Site setings
-
 name: 'CS Cheerleader Blog'
-
 description: 'Horace is a simple Jekyll theme for writers and bloggers. Explore it yourself.'
 meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
-
 logo: 'assets/images/logo.png'
-
 favicon: 'assets/images/favicon.ico'
-
 baseurl: 
-
 production_url:
 disqus: 'justgoodthemes'
-
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 cover_image: bc_1.jpg
-
 # Add your GA Tracking Id
-
 ga_analytics: 
-
-
-
 # Author
-
 author:
-  
 name: 'Ria Galanos'
-  
 image: 'authorimage.jpg'
-  
 greetings: 'Hello, World!'
-  
 description: 'My name is Ria Galanos. I'm a software developer based in Northern VA. Glad you are here.'
-  bio: 'Ria is a software engineer, education consultant, and a lifelong learner.'
-
-
+bio: 'Ria is a software engineer, education consultant, and a lifelong learner.'
 #Contact form setings
-
 email: youremail@email.com
-
 contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
-
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
-
-
 #Social links
-
 twitter: 'cscheerleader'
-#
-facebook: 'username'
-
+#facebook: 'username'
 github: 'riagalanos'
-#
-codepen: 'username'
-
+#codepen: 'username'
 #dribbble: 'username'
-
 #medium: '@username'
-
 #instagram: 'username'
-
 #pinterest: 'username'
-
 linkedin: 'riagalanos'
-
 #producthunt: '@username'
-
-
 # Navigation
-
 navigation:
   - text: About
     url: /about/
