@@ -16,6 +16,6 @@ I often get asked to speak to teachers on a variety of CS education topics.  My 
 
 Had a [soundbite](https://www.marketplace.org/2012/08/03/summer-camp-young-techies/){:target="_blank"} once on NPR.  Still can't get over that it involved cats.
 
-I retired from coaching cheerleading in 2011.  I now use my pom poms to cheer for CS.
+I retired from coaching cheerleading in 2014.  I now use my pom poms to cheer for CS.
 
 If you want to know even more about me, you can read my [CV](http://cscheerleader.com/cv).
