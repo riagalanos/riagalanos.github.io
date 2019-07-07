@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Week With the Apple Watch"
+title:  "Chapter 8"
 tags: [ Tips ]
 featured_image_thumbnail: assets/images/posts/2018/12_thumbnail.jpg
 featured_image: assets/images/posts/2018/12.jpg
@@ -18,3 +18,18 @@ Rumors surrounded an Apple-developed wearable back as far as 2011, which concept
 In April 2014, Apple CEO Tim Cook told The Wall Street Journal that the company was planning to launch new product categories that year, but did not reveal any specifics. In June 2014, Reuters reported that production was expected to begin in July for a release in October.
 
 Apple Watch was first unveiled after a classic and ever infamous “We do have ‘one more thing’…” slide, which heard enormous applause, on September 9, 2014 during a press event which also saw the introduction of the iPhone 6. After the reveal video, the auditorium erupted with applause while Tim Cook rolled back his sleeve, revealing an Apple Watch on his wrist. Speaking about the device, Apple CEO Tim Cook explained that Apple Watch was “a new, intimate way to communicate from your wrist, and a comprehensive health and fitness device.”
+
+hours of sleep 8  ▪  steps 10,000  ▪  lines of code written 20 
+
+Tomorrow begins a new chapter in my life.  Chapter 8 if you count pre-college in Hollywood, FL, college at RPI, a short time in Tucson, AZ post-graduation, AAAS, my work as a defense contractor at the Pentagon, my first teaching gig at Centennial HS in suburban Atlanta, and my second teaching gig at TJHSST as the first seven..
+
+**Software engineer.**  I can hardly believe it.  I’ve been preparing students for this career for the past 16 years.  It’s not that I didn’t think I could pursue this role before, I just loved teaching that much.  I still want to work with young people, but now I hope to work with them from the industry side.  Please hold me accountable.
+
+**Software engineer.**  Friends, family, and teaching colleagues have been asking me what I’ll be doing.  I’ve had to tell them that other than working for Yext, I have no idea in the short term.  Don’t know what team I’ll be working on, which languages or frameworks I’ll be using, or what tools I will need to learn how to use.  Eeek!  Long term, I’m tasked with leading the engineering side’s learning and development program.  They think I have skills in this area.
+
+**Software engineer.**  I’m excited!  Filled with anticipation.  Can’t really say I’m nervous, although tomorrow’s report on hours of sleep will expose that truth.  Who will be my nearest desk partners?   Will I get to work with any other women?  Will the office be freezing?  What are they serving for lunch?  Will my chair be comfortable?  Will I receive a warm welcome?  Will I be brave enough to ask all the questions I want answers to?  When will imposter syndrome set in?
+
+I’m ready.  Filled out my W-4 and I-9 paperwork.  Check.  Have my passport and a voided check in hand to bring to my benefits meeting tomorrow.  Check.  Picked out my medical plan and decided on the percentage I want to contribute to my retirement plan.  Check.  And I have decided on what to wear.  Check.  As a #womanintech, I was going to worry about this a little, but then I realized that my casual is usually a little better than the industry norm of t-shirts and jeans.  So I’m safe (I think.) 
+
+Time for a good night’s sleep.  Haha.
+
