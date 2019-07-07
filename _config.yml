@@ -14,11 +14,10 @@ ga_analytics:
 # Author
 author:
 name: 'Ria Galanos'
-image: 
-#image: 'authorimage.jpg'
+image: 'authorimage.jpg'
 greetings: 'Hello, World!'
 description: 'My name is Ria Galanos. I am a software developer in Northern Virginia.  Glad you stopped by.'
-bio: 'Ria is a software engineer, education consultant, and a lifelong learner.'
+bio: 'Ria is a software engineer, computer science education consultant, and a lifelong learner.'
 #Contact form setings
 email: 'youremail@email.com'
 contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
