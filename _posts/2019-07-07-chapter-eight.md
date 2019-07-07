@@ -7,7 +7,7 @@ featured_image:
 ---
 Tomorrow begins a new chapter in my life.  Chapter eight if you count pre-college in Hollywood, FL, college at RPI, a short time in Tucson, AZ post-graduation, AAAS, my work as a defense contractor at the Pentagon, my first teaching gig at Centennial HS in suburban Atlanta, and my second teaching gig at TJHSST as the first seven..
 
-*Software engineer.*  I can hardly believe it.  I’ve been preparing students for this career for the past 16 years.  It’s not that I didn’t think I could pursue this role before, I just loved teaching that much.  I still want to work with young people, but now I hope to work with them from the industry side.  Please hold me accountable.
+==Software engineer.==  I can hardly believe it.  I’ve been preparing students for this career for the past 16 years.  It’s not that I didn’t think I could pursue this role before, I just loved teaching that much.  I still want to work with young people, but now I hope to work with them from the industry side.  Please hold me accountable.
 
 *Software engineer.*  Friends, family, and teaching colleagues have been asking me what I’ll be doing.  I’ve had to tell them that other than working for Yext, I have no idea in the short term.  Don’t know what team I’ll be working on, which languages or frameworks I’ll be using, or what tools I will need to learn how to use.  Eeek!  Long term, I’m tasked with leading the engineering side’s learning and development program.  They think I have skills in this area.
 
