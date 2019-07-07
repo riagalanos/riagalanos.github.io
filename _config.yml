@@ -9,8 +9,10 @@ production_url: http://cscheerleader.com/
 disqus: 'justgoodthemes'
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 cover_image: 'bc_1.jpg'
+
 # Add your GA Tracking Id
 ga_analytics: 
+
 # Author
 author: 
 name: 'Ria Galanos'
@@ -18,11 +20,13 @@ image: 'authorimage.png'
 greetings: "Hello, World!  I'm Ria Galanos."
 description: '<strong>Engineer.  Teacher.  Lifelong Learner.<strong>'
 bio: 'Ria is a software engineer, computer science education consultant, and a lifelong learner.'
-#Contact form setings
+
+# Contact form setings
 email: 'youremail@email.com'
 contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
-#Social links
+
+# Social links
 twitter: 'cscheerleader'
 #facebook: 'username'
 github: 'riagalanos'
@@ -33,6 +37,7 @@ github: 'riagalanos'
 #pinterest: 'username'
 linkedin: 'riagalanos'
 #producthunt: '@username'
+
 # Navigation
 navigation:
   - text: About
