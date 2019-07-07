@@ -42,10 +42,12 @@ linkedin: 'riagalanos'
 navigation:
   - text: About
     url: /about/
-  - text: Style Guide
-    url: /style-guide/
+  - text: CV
+    url: /cv/
+  - text: APCS A 
+    url: /apcs-a/
   - text: Contact Me
-    url: /contact/
+    url: /contact/  
 
 # Required Plugins
 plugins_dir:
