@@ -19,4 +19,4 @@ I’m ready.  Filled out my W-4 and I-9 paperwork.  Check.  Have my passport and
 
 Time for a good night’s sleep.  Haha.
 
-*hours of sleep 8  ▪  steps 10,000  ▪  lines of code written 20* 
+`*hours of sleep 8`  ▪  `steps 10,000`  ▪  `lines of code written 20*`
