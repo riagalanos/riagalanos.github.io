@@ -14,8 +14,9 @@ Although I have left the classroom and am now working as a software engineer, I 
 
 Some items of interest:
 
-* [A Mapping of the Free-Response Questions from 2004-2019](https://docs.google.com/spreadsheets/d/1Q0pbL9qawN8XlUctkDIiqsP6XdwR-IcWZ_cwauHy0-U/edit?usp=sharing){target="_blank"}
+* [A Mapping of the Free-Response Questions from 2004-2019](https://docs.google.com/spreadsheets/d/1Q0pbL9qawN8XlUctkDIiqsP6XdwR-IcWZ_cwauHy0-U/edit?usp=sharing){:target="_blank"}
 * Favorite APCS A Bookmarks
 * Real-Data Talk
 * Twitter Assignment
+* Quote Wall Signs
 
