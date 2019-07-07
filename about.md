@@ -5,7 +5,7 @@ featured_image:
 #featured_image: /assets/images/pages/about.jpg
 ---
 
-I am the software engineering lead for learning and development at Yext, a tech company focused on online brand management.  I am based out of Tysons Corner in Northern Virginia just outside of Washington, DC.  
+I am the software engineering lead for learning and development at [Yext](http://www.yext.com), a tech company focused on online brand management.  I am based out of Tysons Corner in Northern Virginia just outside of Washington, DC.  
 
 Prior to becoming a software engineer, I had been in the classroom for 18 years - 16 of those as a computer science teacher.  I am passionate about showing young people how to create something from nothing and making them thirsty to learn more.  I enjoy collaborating with and mentoring other teachers in order to improve student achievement.
 
