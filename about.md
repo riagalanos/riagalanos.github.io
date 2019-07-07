@@ -4,6 +4,7 @@ title: About
 featured_image:
 #featured_image: /assets/images/pages/about.jpg
 ---
+{% include image-caption.html imageurl="/assets/images/pages/about.jpg#right" title="Android Hobbyist" %}
 
 I am the software engineering lead for learning and development at [Yext](http://www.yext.com), a tech company focused on online brand management.  I am based out of Tysons Corner in Northern Virginia just outside of Washington, DC.  
 
