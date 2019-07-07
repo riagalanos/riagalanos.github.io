@@ -17,4 +17,4 @@ Had a [soundbite](https://www.marketplace.org/2012/08/03/summer-camp-young-techi
 
 I retired from coaching cheerleading in 2011.  I now use my pom poms to cheer for CS.
 
-If you want to know even more about me, you can read my CV.
+If you want to know even more about me, you can read my [CV](http://cscheerleader.com/cv).
