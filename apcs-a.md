@@ -3,7 +3,8 @@ layout: page
 
 title: APCS A
 
-featured_image: 
+featured_image: /assets/images/pages/apcs-a.jpg
+
 
 ---
 
