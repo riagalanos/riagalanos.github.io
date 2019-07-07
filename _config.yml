@@ -1,7 +1,7 @@
 # Site settings
 name: 'CS Cheerleader'
-description: "Ria Galanos' first year as a software engineer."
-meta_description: 'A blog about learning.'
+description: "Ria Galanos' musings during her first year as a software engineer."
+meta_description: 'A blog about the first year of a software engineer.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: 
