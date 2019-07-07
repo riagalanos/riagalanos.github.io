@@ -5,7 +5,7 @@ meta_description: 'A blog about learning.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: 
-production_url: 'http://cscheerleader.com/'
+production_url: 
 disqus: 'justgoodthemes'
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 cover_image: bc_1.jpg
