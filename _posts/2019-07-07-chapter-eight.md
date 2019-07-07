@@ -1,12 +1,10 @@
 ---
 layout: post
 title:  "Chapter Eight"
-tags: [ Tips ]
+tags: [ ramblings ]
 featured_image_thumbnail:
 featured_image: 
 ---
-*hours of sleep 8  ▪  steps 10,000  ▪  lines of code written 20* 
-
 Tomorrow begins a new chapter in my life.  Chapter eight if you count pre-college in Hollywood, FL, college at RPI, a short time in Tucson, AZ post-graduation, AAAS, my work as a defense contractor at the Pentagon, my first teaching gig at Centennial HS in suburban Atlanta, and my second teaching gig at TJHSST as the first seven..
 
 *Software engineer.*  I can hardly believe it.  I’ve been preparing students for this career for the past 16 years.  It’s not that I didn’t think I could pursue this role before, I just loved teaching that much.  I still want to work with young people, but now I hope to work with them from the industry side.  Please hold me accountable.
@@ -21,3 +19,4 @@ I’m ready.  Filled out my W-4 and I-9 paperwork.  Check.  Have my passport and
 
 Time for a good night’s sleep.  Haha.
 
+*hours of sleep 8  ▪  steps 10,000  ▪  lines of code written 20* 
