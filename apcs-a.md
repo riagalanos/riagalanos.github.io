@@ -1,7 +1,7 @@
 ﻿---
 layout: page
 
-title: APCS A
+title: AP Computer Science A
 
 featured_image: /assets/images/pages/apcs-a.jpg
 
