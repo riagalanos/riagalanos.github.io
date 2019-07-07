@@ -17,8 +17,8 @@ ga_analytics:
 author:
   name: 'Daniel Bennett'
   image: 'authorimage.jpg'
-  greetings: 'Hi there!'
-  description: "My name is Daniel Bennett. I'm a freelance front-end developer, author and speaker based in Austin, TX. It’s nice to meet you."
+  greetings: 'Hello, World!'
+  description: "My name is Ria Galanos. I'm a software developer based in Northern VA. Glad you are here."
   bio: 'Daniel is a designer, photographer, speaker, author of a couple of books about typography and the founder of photo magazine Curious.'
 
 # Contact form setings
