@@ -20,5 +20,5 @@ Some items of interest:
 * [Favorite APCS A Bookmarks](https://docs.google.com/document/d/18isK339Pt4SNCwuiwVx2STrbuL2G8iJFmZKgtdzbztQ/edit?usp=sharing){:target="_blank"}
 * [Real-Data Talk](https://docs.google.com/presentation/d/1lhlkhGco7S3S7fyyJKJbaupR1ZmW19jVZtJcVWtM27M/edit?usp=sharing){:target="_blank"}
 * [Twitter Assignment](https://github.com/riagalanos/cs1-twitter){:target="_blank"}
-* Quote Wall Signs
+* [Quote Wall Signs](https://drive.google.com/open?id=1ySaU67xI6kfqvlsH9pUc1ZJZzaMDSKZ0){:target="_blank"} - Download the free font Swingset BB to see the quotes as they were intended
 
