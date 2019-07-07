@@ -14,14 +14,15 @@ cover_image: 'bc_1.jpg'
 ga_analytics: 
 
 # Author
-author: 'Ria Galanos'
-  name: 'CS Cheerleader'
+author:
+  name: 'Ria Galanos'
   image: 'authorimage.jpg'
-  greetings: 'Hello world, I am Ria Galanos.'
+  greetings: 'Hello world.  I am Ria Galanos.'
   description: |
     <strong>Freelance Android Expert. Lifelong-Learner. Minimalist. Thinker.</strong><br>
     Intrigued by ideas, exciting projects, finance & investing, books, armchair philosophy, composing, writing, classical music, and even better conversations.<br>Seeking to be inspired, to envision the unlikely, to work hard for things that are worth it, and to be surrounded by those who bring out the best in me... <a href="/contact/">Maybe that's you?</a>
   bio: 'I’m a freelance Android Developer who serve companies all over the world. Intrigued by ideas, challenging projects, lifelong learning, armchair philosophy, and even better conversations.<br><br>Seeking to be inspired, to envision the unlikely, to work hard for things that are worth it, and to be surrounded by those who bring out the best in me.<br><b><u>Say Hi!</u></b><br><a href="https://twitter.com/andreasschrade">on Twitter @andreasschrade</a><br><a href="http://linkedin.com/in/andreasschrade">on LinkedIn andreasschrade</a><br><a href="/contact/">Contact me!</a>'
+
 #author: 'Ria Galanos'
 #name: 'CS Cheerleader'
 #image: 'authorimage.jpg'
