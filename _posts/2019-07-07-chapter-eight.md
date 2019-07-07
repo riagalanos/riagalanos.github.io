@@ -2,8 +2,8 @@
 layout: post
 title:  "Chapter Eight"
 tags: [ Tips ]
-featured_image_thumbnail: assets/images/posts/2018/12_thumbnail.jpg
-featured_image: assets/images/posts/2018/12.jpg
+featured_image_thumbnail:
+featured_image: 
 ---
 *hours of sleep 8  ▪  steps 10,000  ▪  lines of code written 20* 
 
