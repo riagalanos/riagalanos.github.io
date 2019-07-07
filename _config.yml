@@ -1,14 +1,14 @@
-# Site setings
+# Site settings
 name: 'CS Cheerleader'
 description: "Ria Galanos' first year as a software engineer."
 meta_description: 'A blog about learning.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: 
-production_url: http://cscheerleader.com/
+production_url: 'http://cscheerleader.com/'
 disqus: 'justgoodthemes'
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
-cover_image: 'bc_1.jpg'
+cover_image: bc_1.jpg
 
 # Add your GA Tracking Id
 ga_analytics: 
@@ -18,7 +18,7 @@ author:
 name: 'Ria Galanos'
 image: 'authorimage.jpg'
 greetings: "Hello, World!  I'm Ria Galanos."
-description: '<strong>Engineer.  Teacher.  Lifelong Learner.<strong>'
+description: 'Engineer.  Teacher.  Lifelong Learner.'
 bio: 'Ria is a software engineer, computer science education consultant, and a lifelong learner.'
 
 # Contact form setings
