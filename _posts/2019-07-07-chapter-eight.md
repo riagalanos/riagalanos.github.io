@@ -18,5 +18,6 @@ Tomorrow begins a new chapter in my life.  Chapter eight if you count pre-colleg
 I’m ready.  Filled out my W-4 and I-9 paperwork.  Check.  Have my passport and a voided check in hand to bring to my benefits meeting tomorrow.  Check.  Picked out my medical plan and decided on the percentage I want to contribute to my retirement plan.  Check.  And I have decided on what to wear.  Check.  As a #womanintech, I was going to worry about this a little, but then I realized that my casual is usually a little better than the industry norm of t-shirts and jeans.  So I’m safe (I think.) 
 
 Time for a good night’s sleep.  Haha.
-
-*hours of sleep `8`  ▪  steps `10,000``  ▪  lines of code written `20`*`
+```Java
+hours of sleep = 8  ▪  steps = 10,000  ▪  lines of code written = 20
+```
