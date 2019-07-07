@@ -14,7 +14,8 @@ ga_analytics:
 # Author
 author:
 name: 'Ria Galanos'
-image: 'authorimage.jpg'
+image: 
+#image: 'authorimage.jpg'
 greetings: 'Hello, World!'
 description: 'My name is Ria Galanos. I am a software developer in Northern Virginia.  Glad you stopped by.'
 bio: 'Ria is a software engineer, education consultant, and a lifelong learner.'
