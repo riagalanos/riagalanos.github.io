@@ -2,7 +2,7 @@
 name: 'CS Cheerleader'
 description: "Ria Galanos' first year as a software engineer."
 meta_description: 'A blog about learning.'
-logo: 'assets/images/logo.jpg'
+logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: 
