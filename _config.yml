@@ -17,18 +17,11 @@ ga_analytics:
 author:
   name: 'Ria Galanos'
   image: 'authorimage.jpg'
-  greetings: 'Hello world.  I am Ria Galanos.'
+  greetings: 'Hello, world.  I am Ria Galanos.'
   description: |
     <strong>Software engineer. Computer science education consultant. Lifelong learner.</strong><br>
     This is a glimpse into my first year as a software engineer.  I hope to take some of the mystery out of what it's like to work at a fast-paced tech company.
-  bio: 'I’m a freelance Android Developer who serve companies all over the world. Intrigued by ideas, challenging projects, lifelong learning, armchair philosophy, and even better conversations.<br><br>Seeking to be inspired, to envision the unlikely, to work hard for things that are worth it, and to be surrounded by those who bring out the best in me.<br><b><u>Say Hi!</u></b><br><a href="https://twitter.com/andreasschrade">on Twitter @andreasschrade</a><br><a href="http://linkedin.com/in/andreasschrade">on LinkedIn andreasschrade</a><br><a href="/contact/">Contact me!</a>'
-
-#author: 'Ria Galanos'
-#name: 'CS Cheerleader'
-#image: 'authorimage.jpg'
-#greetings: 'Hello, World!.  Im Ria Galanos.'
-#description: 'Engineer.  Teacher.  Lifelong Learner.'
-#bio: 'Ria is a software engineer, computer science education consultant, and a lifelong learner.'
+  bio: 
 
 # Contact form setings
 email: 'youremail@email.com'
