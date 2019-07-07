@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About
-featured_image: /assets/images/pages/about.jpg
+featured_image:
+#featured_image: /assets/images/pages/about.jpg
 ---
 
 I am the software engineering lead for learning and development at Yext, a tech company focused on online brand management.  I am based out of Northern Virginia.  
