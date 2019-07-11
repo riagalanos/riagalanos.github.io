@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "administrivia"
+title:  "Administrivia"
 tags: [ ramblings ]
 featured_image_thumbnail:
 featured_image: 
