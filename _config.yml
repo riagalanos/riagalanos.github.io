@@ -42,7 +42,7 @@ github: 'riagalanos'
 #pinterest: 'username'
 linkedin: 'riagalanos'
 #producthunt: '@username'
-rss: 'feed.xml'
+rss: true
 
 # Navigation
 navigation:
