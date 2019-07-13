@@ -48,6 +48,11 @@ endcapture %} {% assign sortedTags = site_tags | split:',' | sort %}
     </div>
 </section>
 
+<!--- Twitter feed -->
+<section class="widget widget-twitter">
+  <a class="twitter-timeline" data-theme="dark" href="https://twitter.com/cscheerleader?ref_src=twsrc%5Etfw">Tweets by CSCheerleader</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</section>
+
 {% if site.mailchimp_url %}
 <section class="widget widget-newsletter">
     <div class="inner">
