@@ -42,7 +42,7 @@ github: 'riagalanos'
 #instagram: 'username'
 #pinterest: 'username'
 #producthunt: '@username'
-rss: true
+rss: 'https://cscheerleader.com/feed.xml'
 
 # Navigation
 navigation:
