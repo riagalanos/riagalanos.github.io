@@ -15,7 +15,7 @@ Today saw more of me chasing down errors out of my control, but I'm getting bett
 
 There are about 100 people in my office - some engineers, some project managers, and a handful of people in other types of roles.  And let's not forget the summer interns!  Quite a few of them are from [TJHSST](http://tjhsst.fcps.edu){:target="_blank"} where I last worked, so either I was their computer science teacher, or I probably either worked with their teacher or know of his/her reputation.  Not sure how this started, but I started playing the Bet-I-Know-Your-CS-Teacher game with the non-TJ employees.  What a hoot!  I've only asked 7 folks so far, but if they took CS in high school, I do in fact know their CS teacher even if they are from states far away!  This was a fun way to break the ice and get people to smile wide.  Then I took it one step forever and sent a photo of me and my new co-worker to their CS teacher to then see if the teacher remembered their student.  Even more fun!  Can't wait to keep playing this week.  CS teacher friends - it may just be your turn next!
 
-<You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.<cite>Dale Carnegie</cite>
+>You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.<cite>Dale Carnegie</cite>
 
 In addition to making new friends around the office, the walls came down a bit between me and my two nearest teammates.  Good conversation, some great bonding, and a feeling like we are all in this together.  I think I got lucky with this group.
 
