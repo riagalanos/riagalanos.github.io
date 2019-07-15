@@ -2,8 +2,8 @@
 layout: post
 title:  "Chapter Eight"
 tags: [ ramblings ]
-featured_image_thumbnail:
-featured_image: 
+featured_image_thumbnail: assets/images/posts/2019/hopper.jpg
+featured_image: assets/images/posts/2019/hopper.jpg
 ---
 Tomorrow begins a new chapter in my life.  Chapter eight if you count pre-college in Hollywood, FL, college at RPI, a short time in Tucson, AZ post-graduation, AAAS, my work as a defense contractor at the Pentagon first with SAIC then SimSupport, my first teaching gig at Centennial High School (#knights4life) in suburban Atlanta, and my second teaching gig at TJHSST as the first seven.
 
