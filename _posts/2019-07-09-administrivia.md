@@ -2,8 +2,8 @@
 layout: post
 title:  "Administrivia"
 tags: [ ramblings ]
-featured_image_thumbnail:
-featured_image: 
+featured_image_thumbnail: assets/images/posts/2019/hopper.jpg
+featured_image: assets/images/posts/2019/hopper.jpg
 ---
 Today was my first full day at my desk.  Still trying to arrive to work by 8am, because #dctraffic.  Since I can eat breakfast at work (unlimited amounts of cereal), I thought this would be a good move, but I was super sleepy today.  Most engineers don't roll in until 9:30, so I have flexibility when I need it. 
 
