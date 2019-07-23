@@ -60,6 +60,7 @@ plugins_dir:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
+  - jemoji
 
 # Pagination
 paginate: 5
