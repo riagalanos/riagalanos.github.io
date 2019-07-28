@@ -10,7 +10,6 @@ disqus: 'cscheerleader-com'
 mailchimp_url: 
 #'//gmail.us3.list-manage.com/subscribe/post?u=522e242c58a077f18018b81be&amp;id=31996b5f19'
 cover_image: 'bc_1.jpg'
-url: http://cscheerleader.com
 
 # Add your GA Tracking Id
 ga_analytics: 'UA-143421382-1'
