@@ -12,7 +12,7 @@ My engineering group is moving to temporary office space on a different floor to
 
 One of my teammates returned today from a short leave. I hadn't met him yet, so I went over to his desk to introduce myself. Turns out we met over a year and a half ago, before either of us joined Yext, at a DC area meetup of students in Georgia Tech's online computer science master's program. Small world! (Note: I'm currently taking a break from the program as I decide if I want to continue with it.)
 
-I am starting to understand the vocabulary my team uses and don't feel totally lost. I still have to ask a ton of questions, and I think that will probably be true for a year. But now I understand the words my teemmates use in their answers which is mighty comforting.
+I am starting to understand the vocabulary my team uses and don't feel totally lost. I still have to ask a ton of questions, and I think that will probably be true for a year. But now I understand the words my teammates use in their answers which is mighty comforting.
 
 I'm remembering my IntelliJ shortcuts (shift-shift, command-n, control-shift-f), but for the life of me, I have to look down everytime I need to cut and paste on my Mac. Serenity now!
 
