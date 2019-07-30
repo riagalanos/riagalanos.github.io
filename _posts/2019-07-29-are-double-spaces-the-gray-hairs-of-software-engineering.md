@@ -16,7 +16,7 @@ I am starting to understand the vocabulary my team uses and don't feel totally l
 
 I'm remembering my IntelliJ shortcuts (shift-shift, command-n, control-shift-f), but for the life of me, I have to look down everytime I need to cut and paste on my Mac. Serenity now!
 
-Today's sprint planning meeting went well. I'm starting to get the hang of estimatng item points. Was assigned some real tasks for this next sprint. I can't wait to see how much progress I make these next two weeks. 
+Today's sprint planning meeting went well. I'm starting to get the hang of estimating item points. Was assigned some real tasks for this next sprint. I can't wait to see how much progress I make these next two weeks. 
 
 And for today's computer science topics, I am learning about Immutables, annotation processors, and practicing some functional programming. I faked my way through understanding last week and then a colleague posted [this great piece about them](http://engblog.yext.com/post/immutables-part-1){:target="_blank"} on the Yext Engineering blog.
 
