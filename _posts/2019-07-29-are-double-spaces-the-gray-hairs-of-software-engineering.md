@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Are Double Spaces the Gray Hairs of Software Engineering?"
-tags: [ ramblings, java, cs teaching tips ]
+tags: [ ramblings, java ]
 featured_image_thumbnail:
 featured_image: 
 ---
 
 First day of week 4. I finally feel comfortable. While things are constantly changing, there is a quiet rhythm to the chaos.
 
-My engineering group is moving to temporary office space on a different floor to relieve some overcrowding as we wait out our time before the big move to our [new schmaltzy office digs in Rosslyn](https://www.yext.com/blog/2019/02/yext-unveils-major-washington-d-c-area-expansion-plans-to-create-five-hundred-new-tech-jobs-in-northern-virginia/){:target="_blank"} at year's end. (Have I mentioned yet that the move to Rosslyn will allow me to walk to work?) In the meantime, the move to the 5th floor in our current building has some positives and negatives. Few standing desks. The furniture is brown (not the gray and white that I love.) We will be separated from the other VA Yexters. We will have to take the elevator or stairs to play ping pong (oh the horror!) The postivies: better view, we face away from the construction noise, we will not have to close the blinds to avoid the afternoon sun, I have drawers at my desk, and more space between teams so we don't each other when we are chewing. I'm super excited, but nervous about the actual move. It's taking place tomorrow when I'll be out of the office. Some of you may remember that three of my moves at TJ did not go well in my absence.
+My engineering group is moving to temporary office space on a different floor to relieve some overcrowding as we wait out our time before the big move to our [new schmaltzy office digs in Rosslyn](https://www.yext.com/blog/2019/02/yext-unveils-major-washington-d-c-area-expansion-plans-to-create-five-hundred-new-tech-jobs-in-northern-virginia/){:target="_blank"} at year's end. (Have I mentioned yet that the move to Rosslyn will allow me to walk to work?) In the meantime, the move to the 5th floor in our current building has some positives and negatives. Few standing desks. The furniture is brown (not the gray and white that I love.) We will be separated from the other VA Yexters. We will have to take the elevator or stairs to play ping pong (oh the horror!) The positives: we have a better view, we face away from the construction noise, we will not have to close the blinds to avoid the afternoon sun, I have drawers at my desk, and there is more space between teams so we don't hear other other chewing when we eat. I'm super excited, but nervous about the actual move. It's taking place tomorrow when I'll be out of the office. Some of you may remember that three of my moves at TJ did not go well in my absence.
 
 One of my teammates returned today from a short leave. I hadn't met him yet, so I went over to his desk to introduce myself. Turns out we met over a year and a half ago, before either of joined Yext, at a DC area meetup of students in Georgia Tech's online computer science master's program. Small world! (Note: I'm currently taking a break from the program as I decide if I want to continue with it.)
 
